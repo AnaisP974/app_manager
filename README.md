@@ -44,8 +44,8 @@ Clone the project
 Open your terminal and navigate to the folder where you want to store the project, then run:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/AnaisP974/app_manager.git
+cd app_manager
 ```
 
 Run the following command to install all necessary Flutter packages:
