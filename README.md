@@ -39,8 +39,7 @@ flutter --version
 git --version 
 ```
 
-Clone the project
-
+**Clone the project**
 Open your terminal and navigate to the folder where you want to store the project, then run:
 
 ```bash
